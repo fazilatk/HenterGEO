@@ -11,3 +11,4 @@ $ composer update
 $ php app/console doctrine:mongodb:schema:update
 $ php app/console geo:data:import
 ```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
